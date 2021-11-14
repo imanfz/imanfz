@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imanfz
 - 👀 I’m interested in mobile app development and AI
 - 🌱 I’m currently learning iOS Developer with storyboard and SwiftUI
-- 💞️ I’m looking to collaborate on deleveping software application
+- 💞️ I’m looking to collaborate on developing software application
 - 📫 How to reach me imanfz1103@gmail.com

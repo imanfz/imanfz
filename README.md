@@ -2,5 +2,4 @@
 - 👀 I’m interested in mobile app development and AI
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on developing software application
-- I'm have experience in Desktop Devloper, Android Developer, and iOS Developer
-- 📫 How to reach me imanfz1103@gmail.com
+- I'm have experience in Desktop, android and iOS

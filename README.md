@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imanfz
 - 👀 I’m interested in mobile app development and AI
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Backend Dev
 - 💞️ I’m looking to collaborate on developing software application
-- I'm have experience in Desktop, android and iOS
+- I'm have experience in Desktop, Android, and iOS as Developer
